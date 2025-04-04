@@ -1,0 +1,101 @@
+Domain,Employee ID,Error Frequency,Type of Error,Avg. Module Time (min),Avg. Resolution Time (min)
+Software Development,EMP001,Daily,Syntax,45,5
+Software Development,EMP002,Weekly,Logical,120,60
+Data Analysis,EMP003,Monthly,Dependency,90,120
+Data Analysis,EMP004,Daily,Logical,60,45
+DevOps,EMP005,Weekly,Dependency,180,180
+DevOps,EMP006,Monthly,Syntax,30,10
+QA Automation,EMP007,Daily,Logical,75,30
+QA Automation,EMP008,Weekly,Syntax,50,8
+Database Administration,EMP009,Monthly,Dependency,150,240
+Database Administration,EMP010,Daily,Logical,90,50
+Software Development,EMP011,Weekly,Syntax,55,12
+Data Analysis,EMP012,Monthly,Logical,85,55
+DevOps,EMP013,Daily,Dependency,200,200
+QA Automation,EMP014,Weekly,Logical,70,40
+Database Administration,EMP015,Monthly,Syntax,35,9
+Software Development,EMP016,Daily,Logical,80,50
+Data Analysis,EMP017,Weekly,Dependency,160,170
+DevOps,EMP018,Monthly,Syntax,40,8
+QA Automation,EMP019,Daily,Logical,65,35
+Database Administration,EMP020,Weekly,Syntax,48,7
+Software Development,EMP021,Monthly,Logical,95,60
+Data Analysis,EMP022,Daily,Dependency,190,210
+DevOps,EMP023,Weekly,Logical,110,70
+QA Automation,EMP024,Monthly,Syntax,38,10
+Database Administration,EMP025,Daily,Logical,85,45
+Software Development,EMP026,Weekly,Syntax,52,11
+Data Analysis,EMP027,Monthly,Dependency,170,190
+DevOps,EMP028,Daily,Logical,75,40
+QA Automation,EMP029,Weekly,Syntax,47,9
+Database Administration,EMP030,Monthly,Logical,100,65
+Software Development,EMP031,Daily,Syntax,42,6
+Data Analysis,EMP032,Weekly,Logical,115,75
+DevOps,EMP033,Monthly,Dependency,165,180
+QA Automation,EMP034,Daily,Logical,70,38
+Database Administration,EMP035,Weekly,Syntax,49,8
+Software Development,EMP036,Monthly,Logical,105,70
+Data Analysis,EMP037,Daily,Dependency,195,220
+DevOps,EMP038,Weekly,Logical,125,80
+QA Automation,EMP039,Monthly,Syntax,32,7
+Database Administration,EMP040,Daily,Logical,88,48
+Software Development,EMP041,Weekly,Syntax,53,10
+Data Analysis,EMP042,Monthly,Logical,92,58
+DevOps,EMP043,Daily,Dependency,205,230
+QA Automation,EMP044,Weekly,Syntax,51,9
+Database Administration,EMP045,Monthly,Logical,98,62
+Software Development,EMP046,Daily,Logical,78,42
+Data Analysis,EMP047,Weekly,Dependency,155,165
+DevOps,EMP048,Monthly,Syntax,37,9
+QA Automation,EMP049,Daily,Logical,68,36
+Database Administration,EMP050,Weekly,Syntax,46,7
+Software Development,EMP051,Monthly,Logical,102,68
+Data Analysis,EMP052,Daily,Dependency,185,200
+DevOps,EMP053,Weekly,Logical,130,85
+QA Automation,EMP054,Monthly,Syntax,33,8
+Database Administration,EMP055,Daily,Logical,82,44
+Software Development,EMP056,Weekly,Syntax,54,11
+Data Analysis,EMP057,Monthly,Logical,87,52
+DevOps,EMP058,Daily,Dependency,210,240
+QA Automation,EMP059,Weekly,Logical,72,42
+Database Administration,EMP060,Monthly,Syntax,36,8
+Software Development,EMP061,Daily,Logical,77,41
+Data Analysis,EMP062,Weekly,Dependency,150,160
+DevOps,EMP063,Monthly,Syntax,39,10
+QA Automation,EMP064,Daily,Logical,67,34
+Database Administration,EMP065,Weekly,Syntax,44,6
+Software Development,EMP066,Monthly,Logical,97,60
+Data Analysis,EMP067,Daily,Dependency,180,195
+DevOps,EMP068,Weekly,Logical,120,75
+QA Automation,EMP069,Monthly,Syntax,34,7
+Database Administration,EMP070,Daily,Logical,83,46
+Software Development,EMP071,Weekly,Syntax,56,12
+Data Analysis,EMP072,Monthly,Logical,89,54
+DevOps,EMP073,Daily,Dependency,215,250
+QA Automation,EMP074,Weekly,Syntax,43,6
+Database Administration,EMP075,Monthly,Logical,99,64
+Software Development,EMP076,Daily,Logical,79,43
+Data Analysis,EMP077,Weekly,Dependency,145,155
+DevOps,EMP078,Monthly,Syntax,41,11
+QA Automation,EMP079,Daily,Logical,66,33
+Database Administration,EMP080,Weekly,Syntax,45,7
+Software Development,EMP081,Monthly,Logical,96,59
+Data Analysis,EMP082,Daily,Dependency,175,185
+DevOps,EMP083,Weekly,Logical,135,90
+QA Automation,EMP084,Monthly,Syntax,31,6
+Database Administration,EMP085,Daily,Logical,84,47
+Software Development,EMP086,Weekly,Syntax,57,13
+Data Analysis,EMP087,Monthly,Logical,91,56
+DevOps,EMP088,Daily,Dependency,220,260
+QA Automation,EMP089,Weekly,Syntax,42,5
+Database Administration,EMP090,Monthly,Logical,101,66
+Software Development,EMP091,Daily,Logical,76,39
+Data Analysis,EMP092,Weekly,Dependency,140,150
+DevOps,EMP093,Monthly,Syntax,40,10
+QA Automation,EMP094,Daily,Logical,69,37
+Database Administration,EMP095,Weekly,Syntax,47,8
+Software Development,EMP096,Monthly,Logical,94,57
+Data Analysis,EMP097,Daily,Dependency,170,175
+DevOps,EMP098,Weekly,Logical,140,95
+QA Automation,EMP099,Monthly,Syntax,35,9
+Database Administration,EMP100,Daily,Logical,86,49
